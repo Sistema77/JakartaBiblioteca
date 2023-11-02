@@ -1,0 +1,10 @@
+daos\Prestamos.class
+daos\EstadosPrestamos.class
+daos\Generos.class
+controladores\inicio.class
+daos\Acceso.class
+daos\Libros.class
+daos\Autores.class
+daos\Editoriales.class
+daos\Colecciones.class
+daos\Usuario.class
